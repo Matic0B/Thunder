@@ -4,6 +4,8 @@ Thunder is a plugin that adds custom XML tag and attribute completion to Atom fo
 
 This is intended to help with making XML files for the [Stratus Network](http://docs.stratus.network). Some features may not work on other variations of PGM.
 
+[**View the package on Atom**](https://atom.io/packages/thunder)
+
 Contributing
 ------
 To start contributing fork the repository. Edit the controls.json file to add, remove and/or update tags and attributes. Once done, submit a pull-request.
