@@ -1,0 +1,24 @@
+{
+  "name": "Thunder",
+  "version": "0.0.0",
+  "description": "Thunder is a plugin that adds custom XML tag and attribute completion to Atom for tags and attributes used by PGM.",
+  "main": "./lib/main",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matic0B/Thunder"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "devDependencies": {
+    "request": "^2.53.0"
+  }
+}
