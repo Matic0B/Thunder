@@ -21,9 +21,17 @@ Supported Modules
  - Time & Dimension
  - World Border
  - Mob Spawning
+ - Players (free-for-all)
+ - Teams
+ - Capture the Wool
 
 Change Log
 ------
+**V0.2.0**
+ - Support Players (free-for-all)
+ - Support Teams
+ - Support Capture the Wool
+
 **V0.1.0**
  - Support Mob Spawning module
  - Support World Border module
