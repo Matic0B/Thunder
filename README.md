@@ -24,9 +24,15 @@ Supported Modules
  - Players (free-for-all)
  - Teams
  - Capture the Wool
+ - Capture the Flag
+ - Control Points
 
 Change Log
 ------
+**V0.3.0**
+ - Support Capture the Flag
+ - Support Control Points
+
 **V0.2.0**
  - Support Players (free-for-all)
  - Support Teams
