@@ -26,9 +26,19 @@ Supported Modules
  - Capture the Wool
  - Capture the Flag
  - Control Points
+ - Destroy the Monument
+ - Destroy the Core
+ - Monument Modes
+ - Blitz
 
 Change Log
 ------
+**V0.4.0**
+ - Support Destroy the Monument
+ - Support Destroy the Core
+ - Support Monument Modes
+ - Support Blitz
+
 **V0.3.0**
  - Support Capture the Flag
  - Support Control Points
